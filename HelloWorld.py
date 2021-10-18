@@ -1,0 +1,5 @@
+print('Hello World')
+print(7*6)
+print(7+9)
+print()
+print("Hi",'This is ','hari',2021)
